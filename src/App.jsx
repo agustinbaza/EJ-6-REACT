@@ -1,5 +1,5 @@
-import './App.css';
-import ColorForm from './components/paletaColores';
+import "./App.css";
+import ColorForm from "./components/paletaColores";
 
 function App() {
   return (
